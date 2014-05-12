@@ -1,0 +1,42 @@
+[submodule ".vim/bundle/Conque-Shell"]
+	path = .vim/bundle/Conque-Shell
+	url = git://github.com/vim-scripts/Conque-Shell.git
+[submodule ".vim/bundle/phpcomplete.vim"]
+	path = .vim/bundle/phpcomplete.vim
+	url = git://github.com/vim-scripts/phpcomplete.vim.git
+[submodule ".vim/bundle/zencoding.vim"]
+	path = .vim/bundle/zencoding.vim
+	url = git://github.com/vim-scripts/ZenCoding.vim.git
+[submodule ".vim/bundle/NERDtree"]
+	path = .vim/bundle/NERDtree
+	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule ".vim/bundle/vcscommand.vim"]
+	path = .vim/bundle/vcscommand.vim
+	url = https://github.com/vim-scripts/vcscommand.vim.git
+[submodule ".vim/bundle/easymotion.git"]
+	path = .vim/bundle/easymotion.git
+	url = git://github.com/Lokaltog/vim-easymotion.git
+[submodule ".vim/bundle/gitv.git"]
+	path = .vim/bundle/gitv.git
+	url = https://github.com/gregsexton/gitv.git
+[submodule ".vim/bundle/fugitive.vim"]
+	path = .vim/bundle/fugitive.vim
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/bundle/threesome.vim"]
+	path = .vim/bundle/threesome.vim
+	url = https://github.com/sjl/threesome.vim
+[submodule ".vim/bundle/NERDtree.git"]
+	path = .vim/bundle/NERDtree.git
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bundle/vim-jade.git"]
+	path = .vim/bundle/vim-jade.git
+	url = https://github.com/digitaltoad/vim-jade.git
+[submodule ".vim/bundle/badwolf.git"]
+	path = .vim/bundle/badwolf.git
+	url = https://github.com/sjl/badwolf.git
+[submodule ".vim/bundle/powerline.git"]
+	path = .vim/bundle/powerline.git
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule ".vim/bundle/skittles_berry.git"]
+	path = .vim/bundle/skittles_berry.git
+	url = git://github.com/shawncplus/skittles_berry.git

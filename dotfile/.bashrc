@@ -271,6 +271,12 @@ alias cleanscreen="screen -ls | tail -n +2 | head -n -2 | awk '{print $1}' | xar
 hg() { history | grep $1 | grep -v hsearch; }
 
 #----- temp function for moving files to the New Vorti folder structure
-
 function dvr()
 { diff $* /home/bssi/clients/Takeda/VORTIOXETINE_2013/RESULTS/DEV/GWAS/$*; }
+
+
+#----- git alias
+
+alias gs="git status"
+alias gl="git log"
+alias ga="git add"
