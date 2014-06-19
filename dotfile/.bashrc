@@ -276,7 +276,10 @@ function dvr()
 
 
 #----- git alias
-
 alias gs="git status"
 alias gl="git log"
 alias ga="git add"
+alias gc="git commit "
+alias gdt="git difftool"
+alias gd="git diff"
+source ~/.git-completion.sh
